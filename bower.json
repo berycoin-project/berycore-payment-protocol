@@ -6,7 +6,7 @@
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "BIP70 Payment Protocol support for bitcore",
+  "description": "BIP70 Payment Protocol support for berycore",
   "moduleType": [
     "globals"
   ],
