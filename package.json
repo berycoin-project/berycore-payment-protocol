@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-payment-protocol",
+  "name": "berycore-payment-protocol",
   "version": "1.2.1",
   "description": "Payment Protocol (BIP70 and related) support for bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -44,12 +44,12 @@
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=4.5.2",
-    "bitcore-lib": "^0.14.0",
+    "berycore-lib": "^0.13.33",
     "jsrsasign": "=5.0.10",
     "protobufjs": "=5.0.1"
   },
   "devDependencies": {
-    "bitcore-build": "git://github.com/bitpay/bitcore-build.git#a93a9970e3a0b3f948309730d4e4af5100dddf5a",
+    "berycore-build": "git://github.com/berycoin-project/berycore-build.git#a93a9970e3a0b3f948309730d4e4af5100dddf5a",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
